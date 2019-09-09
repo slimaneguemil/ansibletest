@@ -1,0 +1,6 @@
+---
+# tasks file for webapplication
+- include: database.yml
+- include: app.yml
+- include: site.yml
+
